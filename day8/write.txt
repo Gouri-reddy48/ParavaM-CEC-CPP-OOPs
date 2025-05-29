@@ -1,0 +1,5 @@
+teacher details are as follows: 
+name : gouri
+age : 18
+branch : AIML
+experience : 2
